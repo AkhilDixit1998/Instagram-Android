@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InstasDemo</string>
+    <string name="fa_home">&#xf015;</string>
+    <string name="fa_portfolio">&#xf07c;</string>
+    <string name="fa_orders">&#xf052;</string>
+    <string name="fa_account">&#xf2b9;</string>
+    <string name="fa_settings">&#xf085;</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
